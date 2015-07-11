@@ -1,0 +1,2 @@
+# thuryism
+mah website
