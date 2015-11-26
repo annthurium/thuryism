@@ -4,6 +4,16 @@ body {
 
 }
 
+h1 {
+	font-weight: lighter !important;
+}
+
+.header {
+	margin-bottom: 38px;
+}
+
 .headerLink {
+	color: #000;
 	margin: 0 30px;
+	text-decoration: none;
 }
