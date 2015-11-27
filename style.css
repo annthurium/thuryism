@@ -1,6 +1,7 @@
 body {
 	font-family: sans-serif;
 	text-align: center;
+	font-weight: lighter;
 
 }
 
@@ -16,4 +17,17 @@ h1 {
 	color: #000;
 	margin: 0 30px;
 	text-decoration: none;
+}
+
+.portraitImage {
+	display: inline-block;
+	margin-right: 18px;
+	vertical-align: top;
+	width: 400px;
+}
+
+.bioText {
+	display: inline-block;
+	margin-top: 0;
+	width: 260px;
 }
