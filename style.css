@@ -26,6 +26,14 @@ h1 {
 	width: 400px;
 }
 
+.socialIcon {
+	margin: 0 32px;
+}
+
+.socialIconsWrapper {
+	margin-top: 64px;
+}
+
 .bioText {
 	display: inline-block;
 	margin-top: 0;
