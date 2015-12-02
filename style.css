@@ -9,6 +9,10 @@ h1, h3 {
 	font-weight: lighter !important;
 }
 
+.headerLink.active {
+	color: magenta;
+}
+
 .header {
 	margin-bottom: 38px;
 }
